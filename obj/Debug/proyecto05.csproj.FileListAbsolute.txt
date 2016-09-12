@@ -1,0 +1,16 @@
+C:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.exe.config
+C:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.exe
+C:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.pdb
+C:\Petruzzi.Gustavo\proyecto05\obj\Debug\ResolveAssemblyReference.cache
+C:\Petruzzi.Gustavo\proyecto05\obj\Debug\proyecto05.exe
+C:\Petruzzi.Gustavo\proyecto05\obj\Debug\proyecto05.pdb
+F:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.exe.config
+F:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.exe
+F:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.pdb
+F:\Petruzzi.Gustavo\proyecto05\obj\Debug\proyecto05.exe
+F:\Petruzzi.Gustavo\proyecto05\obj\Debug\proyecto05.pdb
+E:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.exe.config
+E:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.exe
+E:\Petruzzi.Gustavo\proyecto05\bin\Debug\proyecto05.pdb
+E:\Petruzzi.Gustavo\proyecto05\obj\Debug\proyecto05.exe
+E:\Petruzzi.Gustavo\proyecto05\obj\Debug\proyecto05.pdb
